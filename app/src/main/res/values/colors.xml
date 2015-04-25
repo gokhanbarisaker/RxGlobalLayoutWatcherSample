@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="muted_light">#e0e4cc</color>
+    <color name="muted">#a7dbd8</color>
+    <color name="muted_dark">#f38630</color>
+    <color name="vibrant">#69d2e7</color>
+    <color name="vibrant_dark">#fa6900</color>
+</resources>
